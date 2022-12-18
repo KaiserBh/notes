@@ -11,8 +11,12 @@
             "id": "a49567082772f2d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HOW TO GET REAL IP ADDRESS USING CADDY 2.6+ CLOUDFLARE REVERSE PROXY.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HOW TO GET REAL IP ADDRESS USING CADDY 2.6+ CLOUDFLARE REVERSE PROXY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HOW TO GET REAL IP ADDRESS USING CADDY 2.6+ CLOUDFLARE REVERSE PROXY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HOW TO GET REAL IP ADDRESS USING CADDY 2.6+ CLOUDFLARE REVERSE PROXY.md"
+              }
             }
           }
         ]
@@ -130,8 +138,8 @@
   },
   "active": "a49567082772f2d9",
   "lastOpenFiles": [
-    "HOW TO GET REAL IP ADDRESS USING CADDY 2.6+ CLOUDFLARE REVERSE PROXY.md",
     "README.md",
+    "HOW TO GET REAL IP ADDRESS USING CADDY 2.6+ CLOUDFLARE REVERSE PROXY.md",
     "test file for auto back up?.md",
     "2022-12-18.md"
   ]
