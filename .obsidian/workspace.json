@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "ee91c2f9764b6660",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f72b9f5dcd3f03d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26d9708ebabc3167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOW TO GET REAL IP ADDRESS USING CADDY 2.6+ CLOUDFLARE REVERSE PROXY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c24ac3563eff626d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test file for auto back up?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4caa01904bc937f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c02be4a54788205d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "028efa02d5384a80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15304f4886aa0230",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b68655eeed2eeb00",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b003f869f18ca843",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3acdb8aa90c3d17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdc07b4877d8e57b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test file for auto back up?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "228e0e782ec12cbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "test file for auto back up?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aed767b53f8738fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5bbdf9a1b55c1945",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "test file for auto back up?.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c24ac3563eff626d",
+  "lastOpenFiles": [
+    "HOW TO GET REAL IP ADDRESS USING CADDY 2.6+ CLOUDFLARE REVERSE PROXY.md",
+    "README.md",
+    "2022-12-18.md"
+  ]
+}

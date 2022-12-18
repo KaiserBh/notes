@@ -1,1 +1,1 @@
-# notes
+# This is just personal notes for me. 
