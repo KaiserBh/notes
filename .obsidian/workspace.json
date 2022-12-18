@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4f72b9f5dcd3f03d",
+        "id": "af5ecc66d3cc5bfc",
         "type": "tabs",
         "children": [
           {
-            "id": "26d9708ebabc3167",
+            "id": "a49567082772f2d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOW TO GET REAL IP ADDRESS USING CADDY 2.6+ CLOUDFLARE REVERSE PROXY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c24ac3563eff626d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test file for auto back up?.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test file for auto back up?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test file for auto back up?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test file for auto back up?.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,10 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c24ac3563eff626d",
+  "active": "a49567082772f2d9",
   "lastOpenFiles": [
     "HOW TO GET REAL IP ADDRESS USING CADDY 2.6+ CLOUDFLARE REVERSE PROXY.md",
     "README.md",
+    "test file for auto back up?.md",
     "2022-12-18.md"
   ]
 }

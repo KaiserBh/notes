@@ -35,5 +35,3 @@ sub.domain.com {
   }  
 }
 ```
-
-testing
