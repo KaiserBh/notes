@@ -78,9 +78,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ed63bbc4eca99a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interview/Spring Framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fac57d5ec326af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interview/Linked list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a9149e6bce26a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interview/Java ArrayList.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02e341c605acb408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interview/Linked list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -146,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/SQL Basic.md",
+                "file": "interview/Linked list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview/SQL Basic.md",
+                "file": "interview/Linked list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/SQL Basic.md"
+                "file": "interview/Linked list.md"
               }
             }
           }
@@ -207,16 +255,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54fa7041ed28ca61",
+  "active": "02e341c605acb408",
   "lastOpenFiles": [
+    "interview/ArrayList vs Linked List.md",
+    "interview/Java ArrayList.md",
+    "interview/Linked list.md",
+    "interview/Spring Framework.md",
+    "Untitled.md",
+    "README.md",
+    "interview/SQL Basic.md",
     "interview/Tools-Tech-Stack.md",
     "interview/Java Abstraction.md",
-    "interview/Java Encapsulation.md",
-    "interview/Java Inheritance.md",
-    "interview/Java Polymorphism.md",
-    "HOW TO GET REAL IP ADDRESS USING CADDY 2.6+ CLOUDFLARE REVERSE PROXY.md",
-    "README.md",
-    "test file for auto back up?.md",
-    "2022-12-18.md"
+    "interview/Java Encapsulation.md"
   ]
 }
