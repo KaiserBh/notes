@@ -1,0 +1,18 @@
+-   PHP
+-   Magento (CMS)
+-   NodeJS
+-   AWS Serverless
+-   MERN (Mongo, Express, React, Node)
+-   GraphQL
+-   REST API
+-   CI/CD (continuous integration and continuous deployment)
+-   Scripting/Bash (Linux)
+-   Docker
+-   ReactJS
+-   Java
+-   C#
+-   Golang
+-   Vuejs
+-   SQL
+-   Postgresql
+-   MongoDB
