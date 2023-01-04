@@ -1,4 +1,4 @@
-Abstraction is a feature of object-oriented programming that allows you to focus on the essential features of an object, and ignore the non-essential details. This can be achieved through the use of abstract classes and methods, which are defined by a set of essential characteristics, but do not provide a complete implementation.
+Abstraction is a feature of object-oriented programming that allows us to focus on the essential features of an object, and ignore the non-essential details. This can be achieved through the use of abstract classes and methods, which are defined by a set of essential characteristics, but do not provide a complete implementation.
 
 Here is an example of abstraction in Java:
 

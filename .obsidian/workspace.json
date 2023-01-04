@@ -4,47 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "af5ecc66d3cc5bfc",
+        "id": "5004e35376c72ad9",
         "type": "tabs",
         "children": [
           {
-            "id": "0d644bd57eea6e7f",
+            "id": "8be623f5ee005a68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/Java Polymorphism.md",
+                "file": "interview/ArrayList vs Linked List.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "85c975ba612b2a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interview/Java Inheritance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf087cb1fa7c2109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interview/Java Encapsulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb562cf3a62f477d",
+            "id": "a1ee214c89bd302e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,31 +32,55 @@
             }
           },
           {
-            "id": "957afe490cec4b09",
+            "id": "eac6238de7f7d9f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/Tools-Tech-Stack.md",
+                "file": "interview/Java Encapsulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "54fa7041ed28ca61",
+            "id": "99a295ef6cce9fc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/SQL Basic.md",
+                "file": "interview/Java Inheritance.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4ed63bbc4eca99a1",
+            "id": "7e617962c63e629b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interview/Java Polymorphism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19ad148f29dbcf65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interview/Linked list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6752c8d9894808cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,43 +92,31 @@
             }
           },
           {
-            "id": "2fac57d5ec326af0",
+            "id": "8a367b62dfcc2432",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/Linked list.md",
+                "file": "interview/SQL Basic.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a9149e6bce26a97",
+            "id": "700cadc616869195",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/Java ArrayList.md",
+                "file": "interview/Tools-Tech-Stack.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02e341c605acb408",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interview/Linked list.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -178,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 210.5
   },
   "right": {
     "id": "b003f869f18ca843",
@@ -194,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/Linked list.md",
+                "file": "interview/Java Polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview/Linked list.md",
+                "file": "interview/Java Polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/Linked list.md"
+                "file": "interview/Java Polymorphism.md"
               }
             }
           }
@@ -255,17 +243,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02e341c605acb408",
+  "active": "7e617962c63e629b",
   "lastOpenFiles": [
+    "interview/Java Inheritance.md",
+    "interview/Java Encapsulation.md",
+    "interview/Java Abstraction.md",
     "interview/ArrayList vs Linked List.md",
     "interview/Java ArrayList.md",
-    "interview/Linked list.md",
-    "interview/Spring Framework.md",
-    "Untitled.md",
-    "README.md",
-    "interview/SQL Basic.md",
     "interview/Tools-Tech-Stack.md",
-    "interview/Java Abstraction.md",
-    "interview/Java Encapsulation.md"
+    "interview/SQL Basic.md",
+    "interview/Spring Framework.md",
+    "interview/Linked list.md",
+    "interview/Java Polymorphism.md"
   ]
 }

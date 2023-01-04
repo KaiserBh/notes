@@ -1,4 +1,4 @@
-Encapsulation is a feature of object-oriented programming that allows you to hide the implementation details of a class from other objects. This can be achieved by making the instance variables of the class private, and providing public methods to access and modify them.
+Encapsulation is a feature of object-oriented programming that allows us to hide the implementation details of a class from other objects. This can be achieved by making the instance variables of the class private, and providing public methods to access and modify them.
 
 Here is an example of encapsulation in Java:
 
