@@ -1,6 +1,4 @@
-Both linked lists and array lists are data structures that are used to store collections of items. However, they have some important differences that make them suitable for different types of applications.
-
-One of the main differences between linked lists and array lists is the way they are implemented. An array list is implemented using an array, which is a contiguous block of memory that stores a fixed number of elements. A linked list, on the other hand, is implemented using a series of nodes that are linked together using pointers. Each node in a linked list stores a single element and a pointer to the next node in the list.
+**One of the main differences between linked lists and array lists is the way they are implemented. An array list is implemented using an array, which is a contiguous block of memory that stores a fixed number of elements. A linked list, on the other hand, is implemented using a series of nodes that are linked together using pointers. Each node in a linked list stores a single element and a pointer to the next node in the list.**
 
 Another difference between linked lists and array lists is the way they handle insertions and deletions. In an array list, inserting or deleting an element requires shifting all of the elements that come after it, which can be time-consuming. In a linked list, insertions and deletions can be performed in constant time, since you only need to update the pointers of the nodes on either side of the inserted or deleted element.
 

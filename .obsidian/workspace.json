@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/Java Abstraction.md",
+                "file": "interview/SQL Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/Java Inheritance.md",
+                "file": "interview/ArrayList vs Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/Java Inheritance.md",
+                "file": "interview/SQL Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview/Java Inheritance.md",
+                "file": "interview/SQL Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/Java Inheritance.md"
+                "file": "interview/SQL Basic.md"
               }
             }
           }
@@ -243,16 +243,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6752c8d9894808cc",
+  "active": "a1ee214c89bd302e",
   "lastOpenFiles": [
+    "interview/ArrayList vs Linked List.md",
     "interview/Java Encapsulation.md",
+    "interview/Java Abstraction.md",
     "interview/Java Inheritance.md",
     "interview/Tools-Tech-Stack.md",
     "interview/Spring Framework.md",
     "interview/Linked list.md",
     "interview/Java Polymorphism.md",
-    "interview/Java Abstraction.md",
-    "interview/ArrayList vs Linked List.md",
     "interview/Java ArrayList.md",
     "interview/SQL Basic.md"
   ]
