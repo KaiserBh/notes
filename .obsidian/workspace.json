@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/SQL Basic.md",
+                "file": "interview/Java Polymorphism.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/SQL Basic.md",
+                "file": "interview/Java Polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview/SQL Basic.md",
+                "file": "interview/Java Polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/SQL Basic.md"
+                "file": "interview/Java Polymorphism.md"
               }
             }
           }
@@ -245,6 +245,7 @@
   },
   "active": "a1ee214c89bd302e",
   "lastOpenFiles": [
+    "interview/SQL Basic.md",
     "interview/ArrayList vs Linked List.md",
     "interview/Java Encapsulation.md",
     "interview/Java Abstraction.md",
@@ -253,7 +254,6 @@
     "interview/Spring Framework.md",
     "interview/Linked list.md",
     "interview/Java Polymorphism.md",
-    "interview/Java ArrayList.md",
-    "interview/SQL Basic.md"
+    "interview/Java ArrayList.md"
   ]
 }
