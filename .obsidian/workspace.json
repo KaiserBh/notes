@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "HOW TO GET REAL IP ADDRESS USING CADDY 2.6+ CLOUDFLARE REVERSE PROXY.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "HOW TO GET REAL IP ADDRESS USING CADDY 2.6+ CLOUDFLARE REVERSE PROXY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "HOW TO GET REAL IP ADDRESS USING CADDY 2.6+ CLOUDFLARE REVERSE PROXY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "HOW TO GET REAL IP ADDRESS USING CADDY 2.6+ CLOUDFLARE REVERSE PROXY.md"
               }
             }
           }
@@ -243,8 +243,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1ee214c89bd302e",
+  "active": "028efa02d5384a80",
   "lastOpenFiles": [
+    "README.md",
     "interview/Java Polymorphism.md",
     "interview/SQL Basic.md",
     "interview/ArrayList vs Linked List.md",
@@ -253,7 +254,6 @@
     "interview/Java Inheritance.md",
     "interview/Tools-Tech-Stack.md",
     "interview/Spring Framework.md",
-    "interview/Linked list.md",
-    "interview/Java ArrayList.md"
+    "interview/Linked list.md"
   ]
 }
